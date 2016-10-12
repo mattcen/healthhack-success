@@ -43,6 +43,23 @@ Some of the problems may be closely fitted by ready made solutions. Look for exi
 * Allocate jobs
 * Keep on target
 * Don't sweat the small stuff
+
+Notes:
+
+Try to divide up work so everyone has stuff to do and isn't twiddling their thumbs. Avoid getting stuck down rabbit-holes, and don't worry too much about small details and polish; it's a "hack", after all!
+--
+
+## Prioritise!
+
+* Working prototype over documentation. No slides
+* Check in with problem owner; they're the client; they need constant input
+--
+
+## Keep it simple!
+
+* Make your product easy to use
+* Is this useful for the client?
+* Keep a reasonably small but diverse team
 --
 
 ## Rest!
@@ -58,3 +75,6 @@ Some of the problems may be closely fitted by ready made solutions. Look for exi
 
 * Have check-ins to see where you're at, whether you've gone down a rabbit hole
 * Ask mentors for help; there's a lot of diverse experience here
+--
+
+## Learn and have fun!
