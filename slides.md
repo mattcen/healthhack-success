@@ -6,6 +6,7 @@
 * Read detailed problem descriptions
 * Ask problem owners questions
 * Look for somthing you're interested in or passionate about
+* Find something you want to learn!
 
 Note:
 
@@ -15,8 +16,8 @@ The problems will be posted around the room om big sheets of paper. Read them th
 ## Choose your team
 
 * Discuss your skill with others interested in the problem
-* Endeavour to create a diverse team
-* Designer/UI/UX, Developer, Storyteller, Project Manager
+* Endeavour to create a diverse team, with different skillsets and experiences
+* For example: Designer/UI/UX, Developer, Storyteller, Project Manager
 
 Note:
 
@@ -28,7 +29,7 @@ Chat with other potential team members. You're looking for different types of pe
 * Problem owners generally medical experts, not computer scientists
 * Gather functional requirements
 * Consider prior art that may be useful
-* Limit scope. You've got less than 48 hours!
+* Limit scope. You've got less than 48 hours; really only 2 working days!
 
 Note:
 
