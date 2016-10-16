@@ -44,7 +44,7 @@ Some of the problems may be closely fitted by ready made solutions. Look for exi
 * Keep on target
 * Don't sweat the small stuff
 
-Notes:
+Note:
 
 Try to divide up work so everyone has stuff to do and isn't twiddling their thumbs. Avoid getting stuck down rabbit-holes, and don't worry too much about small details and polish; it's a "hack", after all!
 --
